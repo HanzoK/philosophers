@@ -1,0 +1,212 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "main.o",
+      "main.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/main.c",
+    "output": "/home/hanjkim/joschaise/philo/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "edge_case_city.o",
+      "edge_case_city.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/edge_case_city.c",
+    "output": "/home/hanjkim/joschaise/philo/edge_case_city.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "fork_management.o",
+      "fork_management.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/fork_management.c",
+    "output": "/home/hanjkim/joschaise/philo/fork_management.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "freedom.o",
+      "freedom.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/freedom.c",
+    "output": "/home/hanjkim/joschaise/philo/freedom.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "input_validation.o",
+      "input_validation.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/input_validation.c",
+    "output": "/home/hanjkim/joschaise/philo/input_validation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "monitor_philos.o",
+      "monitor_philos.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/monitor_philos.c",
+    "output": "/home/hanjkim/joschaise/philo/monitor_philos.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "philosopher_actions.o",
+      "philosopher_actions.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/philosopher_actions.c",
+    "output": "/home/hanjkim/joschaise/philo/philosopher_actions.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "philosopher_actions_utils.o",
+      "philosopher_actions_utils.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/philosopher_actions_utils.c",
+    "output": "/home/hanjkim/joschaise/philo/philosopher_actions_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "philosopher_utils.o",
+      "philosopher_utils.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/philosopher_utils.c",
+    "output": "/home/hanjkim/joschaise/philo/philosopher_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "simulation_preparation.o",
+      "simulation_preparation.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/simulation_preparation.c",
+    "output": "/home/hanjkim/joschaise/philo/simulation_preparation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "run_simulation.o",
+      "run_simulation.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/run_simulation.c",
+    "output": "/home/hanjkim/joschaise/philo/run_simulation.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "thread_management.o",
+      "thread_management.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/thread_management.c",
+    "output": "/home/hanjkim/joschaise/philo/thread_management.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "thread_routine.o",
+      "thread_routine.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/thread_routine.c",
+    "output": "/home/hanjkim/joschaise/philo/thread_routine.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-c",
+      "-o",
+      "time_validation.o",
+      "time_validation.c"
+    ],
+    "directory": "/home/hanjkim/joschaise/philo",
+    "file": "/home/hanjkim/joschaise/philo/time_validation.c",
+    "output": "/home/hanjkim/joschaise/philo/time_validation.o"
+  }
+]
